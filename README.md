@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jakub Korzeniewski - 19 yo CS Student at University of Warsaw
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js, Node.js
-- 📫 Find me on LinkedIn: https://www.linkedin.com/in/jakub-korzeniewski-044154161/
+- 📫 My webpage: jakubkorzeniewki.pl
