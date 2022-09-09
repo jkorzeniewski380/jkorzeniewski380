@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Jakub Korzeniewski - 20 yo CS Student at University of Warsaw
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Jakub Korzeniewski - 21 yo CS Student at University of Warsaw
+- 💼 Worked as Software Engineer Intern at Microsoft Developemnt Estonia from July 2022 to October 2022 (full-time)
 - 💼 Working as a Frontend Developer at Million Monkeys Software since July 2021 (full-time)
 - 💼 Worked as Javascript Developer at Synthrone from June 2021 to October 2021 (freelance/part-time)
-- 🌱 I’m experienced with React.js and Node.js
-- 🌱 I want to learn .NET
-- 📫 My webpage: jakubkorzeniewki.pl
